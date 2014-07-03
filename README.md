@@ -17,9 +17,11 @@ If you want to join, create a pull request to this repository which creates a si
 attendees/Arne_Brasseur
 ```
 
-Make sure the email address you use for the Git commit includes a valid email address where we can reach you at. Inside the file you can mention if you want to bring a significant other, any dietary requirements (vegetarian, vegan, lactose-free, etc.), and some info you'd like to share, for instance your twitter handle.
+Make sure the email address you use for the Git commit includes a valid email address where we can reach you at. Inside the file you can mention if you want to bring a significant other, any dietary requirements (vegetarian, vegan, lactose-free, etc.) or accessibility concerns, and some info you'd like to share, for instance your twitter handle.
 
 We will merge PRs until we reach our capacity. PRs are served FIFO, and merged up to the point that we have capicity for.
+
+If you want to keep your attendance private, please send an email instead to arne@arnebrasseur.net.
 
 ## Schedule
 
@@ -32,6 +34,12 @@ At 13:30 a minibus will be waiting for us to take us to the "Pajottenland", a be
 -->
 
 Here's a [Map of places we might visit](https://www.google.be/maps/ms?msid=206150340178934752247.0004e08cc3b670392b21e&msa=0) (too many to do them all)
+
+## Code of Conduct
+
+Ruby Lambik is dedicated to being a harassment-free event for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate at any time or venue, including Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the organizers.
+
+We subscribe to the [Ruby Berlin Code of Conduct](http://rubyberlin.github.io/code-of-conduct/). Please read it carefully before attending the event.
 
 ## Questions
 
