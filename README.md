@@ -1,9 +1,11 @@
-ruby-lambik-2013
+ruby-lambik-2014
 ================
 
-On Wednesday October 2, 2013, the day before [ArrrrCamp](http://arrrrcamp.be), we are organizing a day trip from Ghent (the location of Arrrcamp) to some Gueuze and Lambik breweries around Brussels. These beers are unique to this region. The plan is to visit three different breweries, which includes tasting sessions, and have lunch in between.
+On Wednesday October 1, 2014, the day before [ArrrrCamp](http://arrrrcamp.be), we are organizing a day trip from Ghent (the location of Arrrcamp) to some Gueuze and Lambik breweries around Brussels. These beers are unique to this region. Last year we visited the Cantillion brewery, went for lunch, and had some more Gueuze and Kriek in a lovely old bar in the countryside of the "Pajottenland". This year's schedule is still undecided.
 
-Tentative schedule is to leave Ghent around 10AM, and be back around 6PM.
+We take the train from Ghent to Brussels, and from there a minibus will be waiting to take us around.
+
+Tentative schedule is to leave Ghent around 10AM, and be back late.
 
 ## Pre-registering
 
@@ -21,12 +23,16 @@ We will merge PRs until we reach our capacity. PRs are served FIFO, and merged u
 
 ## Schedule
 
+<!--
+
 We have an appointment at 11:00 to visit the Brewery Cantillon, which is close to the "Bruxelles-Midi/Brussel-Zuid" Railway station. People can meet up in Ghent (@plexus will be there), or come straight to Brussels. The tour takes an hour and a half, including a tasting session. After that we grab some lunch in Brussels.
 
 At 13:30 a minibus will be waiting for us to take us to the "Pajottenland", a beautiful area to the south of Brussels. There we will visit a number of old traditional Gueuze bars, each with their own selection of regional beers. We aim to back at Bruxelles-Midi around 17:30-18:00.
+
+-->
 
 Here's a [Map of places we might visit](https://www.google.be/maps/ms?msid=206150340178934752247.0004e08cc3b670392b21e&msa=0) (too many to do them all)
 
 ## Questions
 
-Open a [Github issue](https://github.com/ruby-lambik/ruby-lambik-2013/issues) if you have any questions.
+Open a [Github issue](https://github.com/ruby-lambik/ruby-lambik-2014/issues) if you have any questions.
